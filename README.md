@@ -12,7 +12,7 @@ Welcome to my GitHub! Glad to have you here.
 ## 🎓 Education
 
 - **B Tech** — Annamacharya Institute of Technology Sciences  
-  _2022 – Present, CGPA: 8.01_
+  _2022 – 2025, CGPA: 8.02_
 - **Diploma** — Government Polytechnic  
   _2019 – 2022, Percentage: 86.09_
 - **SSC** — Raju High School  
